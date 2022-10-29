@@ -12,8 +12,25 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=c1edue&style=flat-square&color=blue" alt=""/>
+  
+  
 <h1>
-  hey there
+  Hello World
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <br>
+   <img src="https://download.logo.wine/logo/Windows_10/Windows_10-Logo.wine.png" title="Git" **alt="Git" width="40" height="40"/>
+     <img src="https://images.pling.com/img/00/00/34/77/25/1005646/166399-1.png" title="Git" **alt="Git" width="40" height="40"/>
+     <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Git" **alt="Git" width="40" height="40"/>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/2048px-MacOS_logo.svg.png" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
