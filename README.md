@@ -32,5 +32,5 @@
      <img src="https://images.pling.com/img/00/00/34/77/25/1005646/166399-1.png" title="Git" **alt="Git" width="40" height="40"/>
      <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Git" **alt="Git" width="40" height="40"/>
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/2048px-MacOS_logo.svg.png" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1edue&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
