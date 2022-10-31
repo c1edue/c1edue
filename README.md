@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150"/>
 <div id="badges">
-  <a href="https://steamcommunity.com/id/c1edue/" target = '_blank'>
+  <a href="https://steamcommunity.com/id/c1edue/">
     <img src="https://img.shields.io/badge/steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/C1deTheOne" target = '_blank'>
+  <a href="https://t.me/C1deTheOne">
     <img src="https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://discord.com/users/768491713210613830/" target = '_blank'>
+  <a href="https://discord.com/users/768491713210613830/">
     <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
