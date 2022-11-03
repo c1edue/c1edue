@@ -32,6 +32,4 @@
      <img src="https://images.pling.com/img/00/00/34/77/25/1005646/166399-1.png" title="Git" **alt="Git" width="90" height="90"/>
      <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Git" **alt="Git" width="90" height="90"/>
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/2048px-MacOS_logo.svg.png" title="Git" **alt="Git" width="90" height="90"/>
-
-
  </div>
